@@ -1,7 +1,5 @@
 # Interconexiones-de-redes
---
 ## Introducción
---
 El presente documento ofrece una guía paso a paso destinada a facilitar la configuración y ejecución de un ejercicio práctico en el ámbito de las redes de computadoras. El ejercicio tiene como objetivo principal proporcionar una comprensión práctica de los fundamentos de la comunicación entre dispositivos en una red local, así como introducir conceptos básicos de seguridad en redes, destacando especialmente el funcionamiento conceptual del ataque conocido como Man-in-the-Middle (MitM).
 
 La finalidad de esta guía es proporcionar a los participantes una descripción detallada y clara de los pasos necesarios para llevar a cabo el ejercicio, permitiendo que cualquier persona interesada en el tema pueda reproducirlo y comprender los procesos involucrados en la comunicación entre dispositivos en una red.
